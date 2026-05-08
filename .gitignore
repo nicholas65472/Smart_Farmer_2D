@@ -1,0 +1,52 @@
+# Build folders
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+build/
+out/
+bin/
+obj/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# Code::Blocks files
+*.cbp
+*.depend
+*.layout
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Videos / recordings
+*.mkv
+*.mp4
+*.avi
+*.mov
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
