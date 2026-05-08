@@ -21,6 +21,7 @@ Regulile principale sunt:
 - SFML System
 - CMake
 - fișiere `.txt` pentru încărcarea nivelurilor și a soluțiilor
+- OOP
 
 ## Funcționalități
 
